@@ -79,7 +79,7 @@ monitor, and support the suite of core AWS services.<br>
 
 <font face="Calibri Light" size="6px"><u>Experience</u></font>
 <p>
-ImpEx Supervisor-Feb. 2021 to Feb. 2024<br>
+ImpEx Supervisor-Feb 2021 to Feb 2024<br>
 SIIX EMS PHILIPPINES INC., Calamba City PH
 </p>
 <ul>
@@ -89,7 +89,7 @@ SIIX EMS PHILIPPINES INC., Calamba City PH
 </ul>
 
 <p>
-Customs Representative-Feb 2015 to August 2020<br>
+Customs Representative-Feb 2015 to Aug 2020<br>
 R.A. REYES Customs Brokerage,Port Area Manila City PH <br>
 </p>
 <ul>
